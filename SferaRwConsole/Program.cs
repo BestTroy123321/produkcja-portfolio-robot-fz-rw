@@ -209,4 +209,16 @@ void ReleaseComObject(object? obj)
     }
 }
 
-readonly record struct MethodCall(string PropertyName, string MethodName, params object[] Arguments);
+sealed class MethodCall
+{
+    public MethodCall(string propertyName, string methodName, params object[] arguments)
+    {
+        PropertyName = propertyName;
+        MethodName = methodName;
+        Arguments = arguments;
+    }
+
+    public string PropertyName { get; }
+    public string MethodName { get; }
+    public object[] Arguments { get; }
+}

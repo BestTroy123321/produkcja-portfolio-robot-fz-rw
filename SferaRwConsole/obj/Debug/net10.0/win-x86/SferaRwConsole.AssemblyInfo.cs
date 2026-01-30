@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SferaRwConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29ec6bde1c1a9d50ebb353c8f66a153ed59b219e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2f4aa703dffdac6b0534227bd0cdecf7a08d0da")]
 [assembly: System.Reflection.AssemblyProductAttribute("SferaRwConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SferaRwConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
