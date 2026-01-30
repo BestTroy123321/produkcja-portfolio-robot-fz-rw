@@ -12,3 +12,4 @@ D:\Trae\Michał Kuriata\sfera gt - utworz rw\SferaRwConsole\obj\Debug\net10.0\re
 D:\Trae\Michał Kuriata\sfera gt - utworz rw\SferaRwConsole\obj\Debug\net10.0\SferaRwConsole.pdb
 D:\Trae\Michał Kuriata\sfera gt - utworz rw\SferaRwConsole\obj\Debug\net10.0\SferaRwConsole.genruntimeconfig.cache
 D:\Trae\Michał Kuriata\sfera gt - utworz rw\SferaRwConsole\obj\Debug\net10.0\ref\SferaRwConsole.dll
+D:\Trae\Michał Kuriata\sfera gt - utworz rw\SferaRwConsole\obj\Debug\net10.0\SferaRwConsole.sourcelink.json

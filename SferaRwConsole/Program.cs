@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
 
-var symbolTowaru = "ABC-123";
-var serwer = "localhost";
-var baza = "SUBIEKT_GT";
+var symbolTowaru = "OP-L-15-TRANSP";
+var serwer = @"WIN-AJ7B9159EKT\INSERTGT";
+var baza = "Baza_Testowa";
 var uzytkownikSql = "sa";
-var hasloSql = "haslo";
-var operatorSymbol = "SZEF";
+var hasloSql = "";
+var operatorSymbol = "Admin Jan";
 var operatorHaslo = "";
 var produktSubiekt = 1;
 var autentykacjaSql = 0;
